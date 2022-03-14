@@ -16,11 +16,11 @@ Are there specific publications that are guilty of implanting bias in their repo
 ### 1. Data Scraping
 We sought our data from 2 different online mediums. We started by scraping articles about the COVID-19 vaccine using the newspaper library. The vaccine was one of the most relevant and polarizing topics in US politics recently, and a widely covered topic in mainstream media. The vaccine presented the perfect gauge for political leaning with the assumption that pro vaccine stances are liberal and anti vaccine stances are conservative. We chose 5 different news outlets that varied across the political spectrum. From left to right, we chose Huffpost, CNN, Reuters, FoxNews, and Breitbart, and in total we gathered 66 articles.
 
-![image](https://user-images.githubusercontent.com/88729964/158274208-0b9fa8e0-cc05-43d3-b953-fd9aff1e2e2f.png)
+![image](https://user-images.githubusercontent.com/88729964/158275297-083c180e-3765-4e4e-b57e-43da45565607.png)
 
 Next, we used Twitter. We scraped posts containing the names of our 5 publications as well as the specific word “vaccine” using tweepy, SnScrape and the twitter API. In total, we scraped around 7200 tweets. Additionally, we were able to obtain the location data of most of the users whose tweets we scraped.
 
-![image](https://user-images.githubusercontent.com/88729964/158274292-68e6547b-77d3-4ee1-929a-65f72fd02951.png)
+![image](https://user-images.githubusercontent.com/88729964/158275737-de8bb255-23e2-43be-8666-0891e4260b8f.png)
 
 ### 2. Exploratory Data Analysis
 
